@@ -171,7 +171,7 @@ let ucp = `
 Selamat ${name} kamu sudah bisa mengunakan 
 akses botz ${namebot} (. ❛ ᴗ ❛.)
 
-ꜱᴜʙꜱᴄʀɪʙᴇ ʏᴛ: ZYKOBOTZ MD`
+WHATSAPP BOTZ RPG`
 
 conn.send2ButtonImg(m.chat, imgr + 'Sukses daftar', cap, ucp + '\n\n' + botdate, em.getRandom() + ' Menu', '.menu', em.getRandom() + 'Donasi', '.donasi',  fkontak)   
 /*  let buttonMessage= {

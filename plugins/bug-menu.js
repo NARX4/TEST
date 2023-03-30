@@ -50,13 +50,12 @@ let { limit, role, level, exp, premiumTime } = db.data.users[m.sender]
 ║❏➣ ${usedPrefix}buggcrash 62888@g.us
 ╚════ ≪ °${nameown}° ≫ ════╝
 
-By : Zyko MD
-YT cannel : ZykoBotz MD
-*Note:* Jangan Salah Gunakan Bug Botz InI
+By : Zyko MODZ
+*Note:* Jangan Salah Gunakan Fitur Bug Botz InI
 
 *Note:* Gunakan lah Bug Botz ini Dengan orang yang bersalah `
 conn.send2ButtonImg(m.chat, imgr + 'Bug Menu', zyko, bug + '\n\n' + botdate + '\n\n' + wm, em.getRandom() + ' Menu', '.menu', em.getRandom() + 'Owner', '.owner',  fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
-  mediaUrl: 'https://instagram.com/lisaamelia8680',
+  mediaUrl: 'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg',
   mediaType: 2, 
   description: sgc,
   title: "Jᴏɪɴ Sɪɴɪ Cᴜʏ",
