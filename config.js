@@ -67,7 +67,7 @@ global.psaweria = '-'
 global.nomorbot = '62822522851433'
 global.nomorown = '62882003141598'
 global.nomorown1 = '62882003141598' //pake No Pacar lo Juga Boleh
-global.namebot = 'ZYKOBOTZ MD'
+global.namebot = '𝙍𝙭-𝘽𝙤𝙩𝙯 𝙈𝙙'
 global.nameown = '𝐍𝐈𝐗𝐙𝐘'
 global.nameown1 = '𝐍𝐈𝐗𝐙𝐘' //Pake Nama Pacar Lo Juga Boleh
 
@@ -93,14 +93,14 @@ global.prems = []
 /*============== WATERMARK ==============*/
 global.gcname = '𝐍𝐈𝐗𝐙𝐘' //nama group kalian
 global.readMore = readMore
-global.wm = '                「 ZYKOBOTZ MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZYKOBOTZ MD '
+global.wm = '                「 𝙍𝙭-𝘽𝙤𝙩𝙯 𝙈𝙙 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙍𝙭-𝘽𝙤𝙩𝙯 𝙈𝙙 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝙍𝙭-𝘽𝙤𝙩𝙯 𝙈𝙙 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By 𝐍𝐈𝐗𝐙𝐘`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 ZYKOBOTZ MD  あ」'
+global.author = '              「 𝙍𝙭-𝘽𝙤𝙩𝙯 𝙈𝙙  あ」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰",
@@ -109,7 +109,7 @@ global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰",
 ])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ZYKOBOTZ MD'
+global.stickpack = '𝙍𝙭-𝘽𝙤𝙩𝙯 𝙈𝙙'
 global.stickauth = `By ©𝐍𝐈𝐗𝐙𝐘`
  
 /*============== LOGO ==============*/
