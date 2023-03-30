@@ -44,43 +44,43 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/ZykoBotz-MD'
-global.sgc = 'https://chat.whatsapp.com/INq67rkTp8iAwiVvLOFAYH'
+global.sgh = 'https://github.com/frdy91'
+global.sgc = 'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg'
 global.sdc = 'https://www.discord.com'
-global.snh = 'https://youtu.be/E1Cb97Rb-8U'
+global.snh = 'https://youtu.be/-'
 global.sfb = 'https://www.facebook.com/' 
-global.syt = 'https://www.youtube.com/@ZykoBotzMD'
-global.tik = 'https://www.tiktok.com/@lisaamelia09_' 
-global.tautanwa = 'https://wa.me/message/CXI3LHFLC6NON1'
-global.wame = 'https://wa.me/message/CXI3LHFLC6NON1' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
+global.syt = 'https://www.youtube.com/'
+global.tik = 'https://www.tiktok.com/' 
+global.tautanwa = 'https://wa.me/62882003141598'
+global.wame = 'https://wa.me/62882003141598' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276'
-global.povo = '0852 1264 9276'
-global.pgopay = '0852 1264 9276'
-global.plinkaja = '0852 1264 9276' 
-global.ppulsa = '0852 1264 9276'
-global.ppulsa2 = '0831 3332 9293'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.plinkaja = '-' 
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
-global.nomorown = '6283133329293'
-global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
+global.nomorbot = '62822522851433'
+global.nomorown = '62882003141598'
+global.nomorown1 = '62882003141598' //pake No Pacar lo Juga Boleh
 global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
-global.nameown1 = 'LISA AMELIA' //Pake Nama Pacar Lo Juga Boleh
+global.nameown = '𝐍𝐈𝐗𝐙𝐘'
+global.nameown1 = '𝐍𝐈𝐗𝐙𝐘' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/kabulsaputra21' // ig lo
-global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/lisaamelia8680' // ig cewek lo
+global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/-' // ig lo
+global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/-' // ig cewek lo
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
+global.namagithub = '-' // nama github lu
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
+  ['62882003141598', '𝐍𝐈𝐗𝐙𝐘', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -91,14 +91,14 @@ global.mods = []
 global.prems = [] 
 
 /*============== WATERMARK ==============*/
-global.gcname = 'ZYKOBOTZ MD' //nama group kalian
+global.gcname = '𝐍𝐈𝐗𝐙𝐘' //nama group kalian
 global.readMore = readMore
 global.wm = '                「 ZYKOBOTZ MD 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ ZYKOBOTZ MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By 𝐍𝐈𝐗𝐙𝐘`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '              「 ZYKOBOTZ MD  あ」'
 global.week = `${week} ${date}`
@@ -110,7 +110,7 @@ global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰",
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'ZYKOBOTZ MD'
-global.stickauth = `By ©ZYKO MD`
+global.stickauth = `By ©𝐍𝐈𝐗𝐙𝐘`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/bd078351110aaaaf3aa59.jpg' 
@@ -3533,7 +3533,7 @@ global.emojis = pickRandom(["🀄️",
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 59 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
       string = string.toLowerCase()
@@ -4217,7 +4217,7 @@ global.mdbot = [
 
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/-"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '0831-3332-9293'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
